@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.dhafinfawwaz.animationui": "https://github.com/DhafinFawwaz/Unity-AnimationUI.git",
     "com.unity.collab-proxy": "2.4.4",
     "com.unity.formats.fbx": "4.2.1",
     "com.unity.ide.rider": "3.0.31",

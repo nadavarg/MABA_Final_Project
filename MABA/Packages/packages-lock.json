@@ -7,6 +7,15 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.dhafinfawwaz.animationui": {
+      "version": "https://github.com/DhafinFawwaz/Unity-AnimationUI.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "2620dca5bd00a28130471539fd27f5f21cc0035c"
+    },
     "com.unity.burst": {
       "version": "1.8.17",
       "depth": 1,
