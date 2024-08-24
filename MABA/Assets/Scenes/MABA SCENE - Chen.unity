@@ -526,8 +526,9 @@ MonoBehaviour:
     I will be back from work at 18:00. Please don\u2019t forget to do it like the
     last time."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 3f0d07e4c795b9046903874fde942f46, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 3f0d07e4c795b9046903874fde942f46, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1a1f7677838a7104a95c2255890e33f9, type: 2}
+  m_sharedMaterial: {fileID: -7721371529237828138, guid: 1a1f7677838a7104a95c2255890e33f9,
+    type: 2}
   m_fontSharedMaterials:
   - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontMaterial: {fileID: 0}
