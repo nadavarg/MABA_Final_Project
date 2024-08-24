@@ -2206,7 +2206,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &330585544
 AudioListener:
   m_ObjectHideFlags: 0
@@ -15841,6 +15841,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Maba
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0824841cf665ab14b8e86da48a141e32,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1267574736128414941, guid: 0824841cf665ab14b8e86da48a141e32,
         type: 3}
@@ -29728,7 +29733,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1706561580
 RectTransform:
   m_ObjectHideFlags: 0
